@@ -93,8 +93,8 @@ at(tile5,7)
 at(tile6,6)
 at(tile2,5)
 at(empty,4)
-at(tile8,3)
-at(tile3,2)
+at(tile8,2)
+at(tile3,3)
 at(tile4,1)
 
 Goal state:
